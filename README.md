@@ -4,8 +4,6 @@
 
 你好，我是 **I日西（RiXi）**，AI 产品经理、个人开发者。我喜欢把日常工作中的真实问题，做成简单、实用的产品与工具，也在这里分享正在构建的个人项目。
 
-[查看无动画版本](README-static.md)
-
 ### 在这些地方找到我
 
 [![小红书：AIRixi。点击进入个人主页。](assets/xiaohongshu-v2-2300c0be.gif)](https://www.xiaohongshu.com/user/profile/6a704bb00000000013022403)  
