@@ -1,4 +1,4 @@
-![I日西，AI产品经理与个人开发者。把AI能力做成真正能用的产品。](assets/hero-v2-85444958-static.png)
+![I日西，AI产品经理与个人开发者。把AI能力做成真正能用的产品。](assets/hero-v2-e7359b6c-static.png)
 
 **把AI能力做成真正能用的产品。**
 
